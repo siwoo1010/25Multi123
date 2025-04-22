@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MidTermTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE223D-380C-4DF7-9DD7-091A77811599}|Problem3\\Problem3.vcxproj|C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15CE223D-380C-4DF7-9DD7-091A77811599}|Problem3\\Problem3.vcxproj|solutionrelative:Problem3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7CA68D-B9AA-4FB6-8B7A-52166C9481AB}|Problem2\\Problem2.vcxproj|C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA7CA68D-B9AA-4FB6-8B7A-52166C9481AB}|Problem2\\Problem2.vcxproj|solutionrelative:Problem2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1CBC9-0B05-47A4-BB8F-7D4F78F782CA}|Problem1\\Problem1.vcxproj|C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBC1CBC9-0B05-47A4-BB8F-7D4F78F782CA}|Problem1\\Problem1.vcxproj|solutionrelative:Problem1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem2\\main.c",
+              "RelativeDocumentMoniker": "Problem2\\main.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem2\\main.c",
+              "RelativeToolTip": "Problem2\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T05:50:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem1\\main.c",
+              "RelativeDocumentMoniker": "Problem1\\main.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem1\\main.c",
+              "RelativeToolTip": "Problem1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T05:50:06.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem3\\main.c",
+              "RelativeDocumentMoniker": "Problem3\\main.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MidTermTest2\\Problem3\\main.c*",
+              "RelativeToolTip": "Problem3\\main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T05:42:14.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
